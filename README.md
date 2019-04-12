@@ -1,4 +1,6 @@
 # Keiko
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Farmory-io%2Fkeiko.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Farmory-io%2Fkeiko?ref=badge_shield)
+
 
 Keiko is a simple queueing library originally built for Spinnaker's Orca 
 µservice.
@@ -47,3 +49,7 @@ Handlers may re-push the same message they are processing in order to implement 
 ## Telemetry
 
 ## Developing a new queue implementation
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Farmory-io%2Fkeiko.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Farmory-io%2Fkeiko?ref=badge_large)
